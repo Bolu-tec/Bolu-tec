@@ -92,7 +92,7 @@ A clean calculator built with vanilla JavaScript.
 
 
 <p align="center">
-  <img src="pong-loop1.gif" alt="Pong Game Loop" width="500" />
+  <img src="pong-loop1.gif" alt="Pong Game Loop" width="300" />
 </p>
 
 > This ping pong match never ends... just like my passion for code 😄
