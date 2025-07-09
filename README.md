@@ -83,16 +83,13 @@ A clean calculator built with vanilla JavaScript.
 
 ## ✨ Interests & Hobbies
 
-- 🏀 Basketball & team sports  
 - 📖 Reading novels, manga, comics  
 - 🎮 Gaming & anime  
 - 💻 Coding side projects  
 - 🧘 Staying active & mentally sharp  
 - 🗣️ Attending events & workshops
+- 🏀 Basketball, ping pong & team sports
 
----
-
-## 🕹️ Endless Pong Loop
 
 <p align="center">
   <img src="pong-loop1.gif" alt="Pong Game Loop" width="500" />
