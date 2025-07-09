@@ -92,13 +92,14 @@ A clean calculator built with vanilla JavaScript.
 
 ---
 
-## 🕹️ Just a Little Game Loop...
+## 🕹️ Endless Pong Loop
 
 <p align="center">
-  <img src="pong-loop.gif" alt="Pong Game Loop" width="500" />
+  <img src="pong-loop1.gif" alt="Pong Game Loop" width="500" />
 </p>
 
-> This classic ping pong match will never end... kind of like my curiosity for tech 😄
+> This ping pong match never ends... just like my passion for code 😄
+
 
 ---
 
