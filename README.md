@@ -69,6 +69,17 @@ A clean calculator built with vanilla JavaScript.
 
 </details>
 
+<details>
+<summary><strong>🤖 Reddit Auto-Reply Bot</strong></summary>
+
+A Python bot that monitors subreddits in real time and replies to comments containing specific keywords.
+
+- Uses the Reddit API via PRAW  
+- Automates replies based on keyword detection (e.g., "hello")  
+- Demonstrates scripting, REST API usage, and real-time automation  
+- Includes placeholder credentials for safe public sharing
+
+</details>
 
 ---
 
